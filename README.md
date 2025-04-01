@@ -1,5 +1,5 @@
 ## LexiArm: Transforming Natural Language into Robotic Manipulation
-
+<img src="media.gif" width="40" height="40" />
 In this repo, we provide the implementation of LexiArm in [RLBench](https://sites.google.com/view/rlbench) as its task diversity best resembles our real-world setup. Note that LexiArm is a zero-shot method that does not require any training data. Therefore, the main purpose of this repo is to provide a demo implementation rather than an evaluation benchmark.
 
 **Note: This codebase does not contain the perception pipeline used in our real-world experiments with Panda arm, which produces a real-time mapping from object names to object masks. Instead, it uses the object masks provided as part of RLBench's `get_observation` function. If you are interested in deploying the code on a real robot, you may find more information in the section [Real World Deployment](#real-world-deployment).**
