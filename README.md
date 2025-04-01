@@ -1,9 +1,4 @@
 ## LexiArm: Transforming Natural Language into Robotic Manipulation
-## Demo Video
-## Demo Video
-[![Watch the video](https://github.com/Aaditya2003/LexiArm/blob/main/media.mp4)](https://github.com/Aaditya2003/LexiArm/blob/main/media.mp4)
-
-
 
 In this repo, we provide the implementation of LexiArm in [RLBench](https://sites.google.com/view/rlbench) as its task diversity best resembles our real-world setup. Note that LexiArm is a zero-shot method that does not require any training data. Therefore, the main purpose of this repo is to provide a demo implementation rather than an evaluation benchmark.
 
